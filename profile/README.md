@@ -1,5 +1,8 @@
 # Welcome to Cadott Programming Club! 👋
 
+[![Repositories](https://img.shields.io/github/repo-count/Cadott-Programming-Club?style=for-the-badge&label=Repositories)](https://github.com/orgs/Cadott-Programming-Club/repositories)
+[![Members](https://img.shields.io/github/org-members/Cadott-Programming-Club?style=for-the-badge&label=Members)](https://github.com/orgs/Cadott-Programming-Club/people)
+
 ## 🚀 About Us
 
 The Cadott Programming Club is a community of passionate developers, learners, and tech enthusiasts dedicated to exploring the world of programming and technology. Whether you're just starting your coding journey or you're an experienced developer, there's a place for you here!
