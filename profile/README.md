@@ -1,7 +1,7 @@
 # Welcome to Cadott Programming Club! 👋
 
-[![Repositories](https://img.shields.io/github/repo-count/Cadott-Programming-Club?style=for-the-badge&label=Repositories)](https://github.com/orgs/Cadott-Programming-Club/repositories)
-[![Members](https://img.shields.io/github/org-members/Cadott-Programming-Club?style=for-the-badge&label=Members)](https://github.com/orgs/Cadott-Programming-Club/people)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FCadott-Programming-Club&query=%24.public_repos&label=Repositories&style=for-the-badge)](https://github.com/orgs/Cadott-Programming-Club/repositories)
+[![Public members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FCadott-Programming-Club%2Fmembers%3Fper_page%3D100&query=%24.length&label=Public%20Members&style=for-the-badge)](https://github.com/orgs/Cadott-Programming-Club/people)
 
 ## 🚀 About Us
 
